@@ -6,7 +6,7 @@ Soy un apasionado del desarrollo web con experiencia en tecnologías modernas pa
 ## 📌 Sobre mí  
 💡 Me encanta aprender y mejorar continuamente mis habilidades.  
 🔥 Apasionado por el desarrollo eficiente y la optimización de código.  
-📫 Puedes contactarme en [javieruberos@gmail.com]
+📫 Puedes contactarme en [javieruberos@gmail.com].
 💻 Visita mi portfolio https://www.javieruberos.com/
 
 ¡Explora mis repositorios y colaboremos en algo increíble!   
